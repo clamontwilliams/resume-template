@@ -23,7 +23,8 @@ resume_contact_address:         "4 Crest Ct. Hickory Creek, Texas 75065"
 resume_header_contact_info:     "4 Crest Ct. Hickory Creek, Texas • 240-450-2920 • chet@chetlwilliams.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am an Air Force veteran with over 20 years experience in network and datacenter building. </p>"
+resume_header_intro: "<p>I am an Air Force veteran with over 20 years experience in the communications industry. Skilled in Technical Documentation, Data Center Engineering, and Transport Network Design. 
+                      Strong engineering professional with a Bachelor's degree focused in Technical Communications from Northeastern University.  </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,8 +46,8 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/clamontwilliams"
-  resume_twitter_url:           "http://twitter.com/clamontwilliams"
+  #resume_github_url:            "https://github.com/clamontwilliams"
+  resume_twitter_url:           "http://twitter.com/chetlwilliams1"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/chetwilliams1/"

@@ -1,19 +1,62 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Senior Manager
+- company: Salesforce
+  position: Senior Manager, Dallas Datacenter
+  duration: May, 2020 &mdash; Present
+  summary: Managing the Dallas datacenter; this includes power, space, and several direct reports.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Lead Datacenter Engineer
+- company: Salesforce
+  position: Lead Datacenter Engineer
+  duration:  Oct, 2017 &mdash; May, 2020
+  summary: Designed and developed Salesforce hardware projects for the Dallas datacenter.
+
+# Senior Datacenter Engineer
+- company: Salesforce
+  position: Senior Datacenter Engineer
+  duration:  Dec, 2015 &mdash; Oct, 2017
+  summary: Develop and managed expansion projects for Salesforce cloud in Dallas
+
+# Datacenter Engineer
+- company: Salesforce
+  position: Datacenter Engineer
+  duration:  Oct, 2014 &mdash; Dec, 2015
+  summary: Performed installation and maintenance of various systems directly supporting the Salesforce Cloud.
+
+# Verizon Business
+- company: Verizon Business
+  position: Consultant Eng-Network Eng at Verizon Business
+  duration:   Nov, 2006  &mdash; Oct, 2014
+  summary: Developed new datacenter installation documentation including MOPs, drawings, and rack layouts.
+          Coordinated and managed multiple vendors for local and remote datacenters installations.
+          Designed and implemented a multi-node transport network connecting multiple customer locations.
+          Created documentation to explain how several non-standard transport network solutions work.
+          Developed an optical solution for 576 fiber connections and helped create a PHP database.
+          Installed, repaired, and setup initial configurations on Junipers, Cisco, Dell, and HP systems.
+          Spearheaded a 30 site upgrade effort including hardware installation, equipment upgrades, and creating documentation.
+          Working knowledge of Windows, Linux OS, Cisco IOS, and TCP/IP networking.
+          Flexible and able to adjust to constantly changing situations.
+          Performed extensive and extended travel in support of customer and company projects
+          Great people skills and customer oriented
+
+# Verizon Business
+- company: Verizon Business
+  position: Field/Node Technician
+  duration:   Oct, 2000  &mdash; Nov, 2006
+  summary: Installed and tested numerous customer data circuits from T1 to OC-48 in customer locations.
+          Installed transport equipment - Cisco ONS, Fujitsu, and CAC.
+          Used multiple test equipment, including T-Berds, fiber meters, OTDR, and protocol analyzers.
+          Performed installation of multiple cabling types and systems in remote company locations.
+          Responsible for Maintaining and troubleshooting problems of many Nortel OC48, OC192, and Optera equipment.
+          Assisted in troubleshooting Ciena optical multiplexing equipment during a splice in on the add/drop route.
+          Installed various fiber and copper cable types.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  # Air Force
+- company: Air Force
+  position: Satellite/Wideband Technician
+  duration:   Sep, 1996  &mdash; Sep, 2000
+  summary:  Supported Long-haul microwave, high frequency radio communications and bulk secure communications for the Andrews Area Wideband System.
+            Ensured effectiveness of the Presidential radio station, the Joint Chiefs of the Staff communications, Defense Information Systems Agency circuits and various Air Force commands means of communication.
+            Sustained equipment that allowed the Air Force to consolidate all radio operations to the Washington Area, saving hundreds of thousands of dollars by eliminating the need for 24-hour support.
+            Maintained, repaired, overhauled, and installed various support equipment like digital data modems and various 1st and 2nd level digital multiplexer systems.

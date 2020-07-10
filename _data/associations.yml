@@ -1,15 +1,21 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: Vetforce
+  role: Member
+  year: 2017 &mdash; 2020
+  url: https://veterans.force.com/
+  summary: A Salesforce employee resource group that was created to support veterans who are looking to develop a new career with the Salesforce platform. 
+
+- organization: Infrastructure Masons
+  role: Member
+  year: 2019 &mdash; 2020
+  url: https://imasons.org/
+  summary: Builders of the Digital Age
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Society for Technical Communications
+  role: Member
+  year: 2002 &mdash; 2020
+  url: https://www.stc.org/
+  summary: The Society for Technical Communication is a professional association dedicated to the advancement of the theory and practice of technical communication.
