@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
 - skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+  description: I have several years of experience leading contractors, subject matter experts and full time employees. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+
+# Datacenter Desgin
+- skill: Datacenter Design
+  description: Power, space, and connectivity planning on all levels. Able to interpret the business needs and create and efficient design to support it.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Transport Design
+  description: Develop Layer 1 and Layer 2 designs for local, metro and long haul connectivity.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Technical Communciations
+  description: Copy writing, graphic design, print design
